@@ -22,3 +22,6 @@ https://www.azuredevopslabs.com/labs/vstsextend/jenkins/
 
 sudo yum install git
 sudo yum install java-1.8.0-openjdk-devel
+
+
+https://www.azuredevopslabs.com/labs/azuredevops/github-integration/
