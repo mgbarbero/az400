@@ -21,4 +21,4 @@ Password de admin de la VM: Pa55w.rd
 https://www.azuredevopslabs.com/labs/vstsextend/jenkins/
 
 sudo yum install git
-sudo yum install java
+sudo yum install java-1.8.0-openjdk-devel
