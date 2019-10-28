@@ -25,3 +25,5 @@ sudo yum install java-1.8.0-openjdk-devel
 
 
 https://www.azuredevopslabs.com/labs/azuredevops/github-integration/
+
+az account list-locations
