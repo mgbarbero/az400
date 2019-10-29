@@ -37,3 +37,7 @@ https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/
 https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
 
 https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/
+
+
+Install-Module DockerMsftProvider -Force
+Install-Package Docker -ProviderName DockerMsftProvider -Force
