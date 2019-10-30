@@ -43,3 +43,5 @@ Install-Module DockerMsftProvider -Force
 Install-Package Docker -ProviderName DockerMsftProvider -Force
 
 https://www.azuredevopslabs.com/labs/azuredevops/continuousdeployment/
+
+https://azuredevopslabs.com/labs/vstsextend/releasegates/
