@@ -41,3 +41,5 @@ https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/
 
 Install-Module DockerMsftProvider -Force
 Install-Package Docker -ProviderName DockerMsftProvider -Force
+
+https://www.azuredevopslabs.com/labs/azuredevops/continuousdeployment/
