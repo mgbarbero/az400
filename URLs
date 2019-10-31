@@ -45,3 +45,9 @@ Install-Package Docker -ProviderName DockerMsftProvider -Force
 https://www.azuredevopslabs.com/labs/azuredevops/continuousdeployment/
 
 https://azuredevopslabs.com/labs/vstsextend/releasegates/
+
+https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/
+
+https://azuredevopslabs.com/labs/vstsextend/ansible/
+
+https://azuredevopslabs.com/labs/vstsextend/terraform/
