@@ -86,3 +86,8 @@ https://www.azuredevopslabs.com/labs/vstsextend/deploymentgroups
 
 https://www.azuredevopslabs.com/labs/azuredevops/appinsights/
 
+az account list-locations
+az resource list --location westus
+az resource list --name 'resourceName'
+
+
