@@ -81,3 +81,7 @@ Set-AzureRmContext -SubscriptionId "25ec5bae-****-****-****-***********"
 http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithChefonAzure.html
 
 http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithPuppetonAzure.html
+
+https://www.azuredevopslabs.com/labs/vstsextend/deploymentgroups
+
+https://www.azuredevopslabs.com/labs/azuredevops/appinsights/
