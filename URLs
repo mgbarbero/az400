@@ -71,3 +71,6 @@ http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaCDeployApptoAKS.html
 
 user@mgbarberogmail.onmicrosoft.com
 Az400az400
+
+Login-AzureRmAccount
+Set-AzureRmContext -SubscriptionId "25ec5bae-****-****-****-***********"
