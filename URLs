@@ -91,3 +91,6 @@ az resource list --location westus
 az resource list --name 'resourceName'
 
 
+https://www.azuredevopslabs.com/labs/azuredevops/deliveryplans
+
+https://www.azuredevopslabs.com/labs/vstsextend/teams/
