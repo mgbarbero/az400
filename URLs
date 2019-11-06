@@ -90,7 +90,16 @@ az account list-locations
 az resource list --location westus
 az resource list --name 'resourceName'
 
+************************************************************************
 
 https://www.azuredevopslabs.com/labs/azuredevops/deliveryplans
 
 https://www.azuredevopslabs.com/labs/vstsextend/teams/
+
+************************************************************************
+
+https://www.azuredevopslabs.com/labs/vstsextend/github-azurepipelines/
+
+https://www.azuredevopslabs.com/labs/vstsextend/github-azureboards/
+
+https://www.azuredevopslabs.com/labs/vstsextend/teams-devopshub/
