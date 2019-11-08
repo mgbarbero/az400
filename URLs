@@ -114,10 +114,36 @@ https://www.azuredevopslabs.com/labs/azuredevops/wiki
 
 https://www.azuredevopslabs.com/labs/azuredevops/exploratorytesting/
 
-https://www.azuredevopslabs.com/labs/azuredevops/load/
-
 **********************************************************************
 
 https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/
 
 https://www.azuredevopslabs.com/labs/vstsextend/eclipse/
+
+**********************************************************************
+
+BONUS
+
+CI/CD con Python y Azure Devops
+
+https://www.azuredevopslabs.com/labs/vstsextend/python/
+
+CI/CD con Node y Azure Devops
+
+https://www.azuredevopslabs.com/labs/vsts/nodejs/
+
+CI/CD con Azure Functions y Azure Devops
+
+https://www.azuredevopslabs.com/labs/vstsextend/azurefunctions/
+
+CI/CD con Machine Learning y Azure Devops
+
+https://www.azuredevopslabs.com/labs/vstsextend/aml/
+
+Octupus Deploy
+
+https://www.azuredevopslabs.com/labs/vstsextend/octopus/
+
+Mobile Apps using App Center
+
+https://www.azuredevopslabs.com/labs/vstsextend/appcenter/
