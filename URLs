@@ -2,27 +2,10 @@ https://www.azuredevopslabs.com/
 https://azuredevopsdemogenerator.azurewebsites.net/
 https://www.azuredevopslabs.com/labs/azuredevops/git/
 
-
-Desde ITCollege
-RDS.Lab-Access.com
-
-Desde afuera
-RDS.Lab-Access.com:9389
-
-Las credenciales de conexión son las mismas para todos los alumnos: 
-Username: Lab\student
-Password: Pa$$w0rd
-
-Usar VO+NRO
-
-Password de admin de la VM: Pa55w.rd
-
-
 https://www.azuredevopslabs.com/labs/vstsextend/jenkins/
 
 sudo yum install git
 sudo yum install java-1.8.0-openjdk-devel
-
 
 https://www.azuredevopslabs.com/labs/azuredevops/github-integration/
 
@@ -67,10 +50,6 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/deployment-modes
 microsoft.github.io/PartsUnlimited/iac/200.2x-IaCDeployApptoAppServices.html
 
 http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaCDeployApptoAKS.html
-
-
-user@mgbarberogmail.onmicrosoft.com
-Az400az400
 
 Login-AzureRmAccount
 Set-AzureRmContext -SubscriptionId "25ec5bae-****-****-****-***********"
